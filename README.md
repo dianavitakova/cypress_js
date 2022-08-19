@@ -1,3 +1,4 @@
+Написанные мной автотесты на js в Сypress
 ### Как запустить?
 
 1. Установить node.js: https://nodejs.org/en/download/
